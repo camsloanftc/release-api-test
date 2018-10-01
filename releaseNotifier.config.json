@@ -11,6 +11,13 @@
   },
   "emailSettings": {
     "enabled": true,
-    "emailAddresses": ["cam@sloan.ca", "cambodia87@gmail.com"]
+    "to": [
+      "cam@sloan.ca", 
+      "cambodia87@gmail.com"
+    ],
+    "from": {
+      name: 'Release Buddy',
+      email: 'releases@ecobee.com',
+    }
   }
 }
