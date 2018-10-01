@@ -11,7 +11,10 @@
   },
   "emailSettings": {
     "enabled": true,
-    "to": "cam@sloan.ca",
+    "to": {
+      "name": "Release Buddy",
+      "email": "cam@sloan.ca"
+    },
     "bcc": [
       "cam@sloan.ca", 
       "cambodia87@gmail.com"
