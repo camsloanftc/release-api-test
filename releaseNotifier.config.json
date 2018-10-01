@@ -16,8 +16,8 @@
       "cambodia87@gmail.com"
     ],
     "from": {
-      name: 'Release Buddy',
-      email: 'releases@ecobee.com',
+      "name": "Release Buddy",
+      "email": "releases@ecobee.com",
     }
   }
 }
